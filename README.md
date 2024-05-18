@@ -12,38 +12,38 @@ Gather a labeled dataset containing examples of hate speech and non-hate speech.
 
 Clean and preprocess the text data to remove noise and prepare it for analysis. This involves:
 
-a. Removing special characters and punctuation.
+ a. Removing special characters and punctuation.
 
-b. Converting text to lowercase.
+ b. Converting text to lowercase.
 
-c. Tokenization (splitting text into words or tokens).
+ c. Tokenization (splitting text into words or tokens).
 
-d. Removing stop words (common words like 'the', 'is', etc.).
+ d. Removing stop words (common words like 'the', 'is', etc.).
 
-e. Stemming or lemmatization (reducing words to their base form).
+ e. Stemming or lemmatization (reducing words to their base form).
 
 3. Feature Extraction:
 
 Convert the preprocessed text into numerical features that can be used by machine learning algorithms. 
 Common methods include:
 
-a. Bag of Words (BoW).
+ a. Bag of Words (BoW).
 
-b. Term Frequency-Inverse Document Frequency (TF-IDF).
+ b. Term Frequency-Inverse Document Frequency (TF-IDF).
 
-c. Word embeddings like Word2Vec or GloVe.
+ c. Word embeddings like Word2Vec or GloVe.
 
 4. Model Building:
 Train a machine learning model to classify text as hate speech or non-hate speech. 
 Common algorithms include:
 
-a. Logistic Regression.
+ a. Logistic Regression.
 
-b. Support Vector Machines (SVM).
+ b. Support Vector Machines (SVM).
 
-c. Naive Bayes.
+ c. Naive Bayes.
 
-d. Deep learning models like LSTM or CNNs.
+ d. Deep learning models like LSTM or CNNs.
 
 5. Model Evaluation:
 Evaluate the performance of the model using metrics like accuracy, precision, recall, and F1-score. Use techniques like cross-validation to ensure the model generalizes well to new data.
