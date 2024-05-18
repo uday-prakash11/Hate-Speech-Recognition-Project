@@ -12,15 +12,15 @@ Gather a labeled dataset containing examples of hate speech and non-hate speech.
 
 Clean and preprocess the text data to remove noise and prepare it for analysis. This involves:
 
-a.Removing special characters and punctuation.
+a. Removing special characters and punctuation.
 
-b.Converting text to lowercase.
+b. Converting text to lowercase.
 
-c.Tokenization (splitting text into words or tokens).
+c. Tokenization (splitting text into words or tokens).
 
-d.Removing stop words (common words like 'the', 'is', etc.).
+d. Removing stop words (common words like 'the', 'is', etc.).
 
-e.Stemming or lemmatization (reducing words to their base form).
+e. Stemming or lemmatization (reducing words to their base form).
 
 3.Feature Extraction:
 
