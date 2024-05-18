@@ -47,8 +47,10 @@ Key Components
  d. Deep learning models like LSTM or CNNs.
 
 5. Model Evaluation:
+ 
  Evaluate the performance of the model using metrics like accuracy, precision, recall, and F1-score. Use techniques like cross-validation to ensure the model generalizes 
  well to new data.
 
 6. Deployment (Optional):
+ 
  Deploy the model as a web service or integrate it into an application where it can be used to monitor and filter hate speech in real-time.
