@@ -5,6 +5,7 @@ A hate speech recognition project in Python involves creating a system that can 
 Key Components
 
 1.Data Collection:
+
 Gather a labeled dataset containing examples of hate speech and non-hate speech. Common datasets include those from social media platforms, news articles, and public datasets like the Hate Speech and Offensive Language dataset by Davidson et al.
 
 2.Data Preprocessing:
